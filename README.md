@@ -172,4 +172,4 @@ This project is intended for educational purposes.
 
 ## License
 
-This project is intended for educational purposes.
+This project is intended for educational purpose
